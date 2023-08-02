@@ -1,4 +1,3 @@
-# test_coursera
+# IBM Data Science Final Project
 
-This is the first contact with GitHub and my first repository. 
-Looking forward for more :)
+You will find in this repository all the labs notebooks I used for this Data Science Project
